@@ -1,5 +1,5 @@
-Username = 'xyz'
-Password = '123'
+Username = ''
+Password = ''
 # Your Instagram username and password goes here.
 
 

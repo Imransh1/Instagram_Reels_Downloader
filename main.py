@@ -46,7 +46,7 @@ canvas.pack()
 frame=Frame(root,bg="white")
 frame.place(relwidth=1,relheight=1)
 
-background_image = ImageTk.PhotoImage(Image.open(r"C:\Users\Asus\Downloads\Insta_downloads\Logo.jpg"))
+background_image = ImageTk.PhotoImage(Image.open(r"Logo.jpg"))
 background_label = Label(frame, image = background_image)
 background_label.place(relx=-0.03,relwidth = 0.62, relheight =1)
 
